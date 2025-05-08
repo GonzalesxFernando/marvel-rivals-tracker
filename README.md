@@ -1,7 +1,7 @@
 #Lab 12 assignment
 # Marvel Rivals Tracker
 
-This is a small Python app I made to track wins, losses, and notes for characters in Marvel Rivals. I wanted something simple where I could keep track of which characters I’m doing well with and make quick notes about matches — kind of like a personal stat journal.
+This is a small Python app I made to track wins, losses, and notes for characters in Marvel Rivals. I wanted something simple where I could keep track of which characters I’m doing well with and make quick notes about matches. Serves as a personal stat journal.
 
 ## What It Does
 
